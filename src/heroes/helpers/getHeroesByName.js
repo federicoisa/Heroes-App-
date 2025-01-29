@@ -1,4 +1,4 @@
-import { heroes } from "../data/heores";
+import { heroes } from "../data/heroes";
 
 export const getHeroesByName = ( name = '' ) => {
 
